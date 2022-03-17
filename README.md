@@ -1,2 +1,2 @@
 # ConceptsPOO
-Esta es una demostracion de como funciona los objetos en C#
+Esta es una demostracion de como funcionan los objetos en C#
